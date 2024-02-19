@@ -1,2 +1,3 @@
 README
-Pull Request Test
+
+-Project Build Settings
