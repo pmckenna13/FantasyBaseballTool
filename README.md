@@ -1,4 +1,3 @@
 README
 
-# Project Build Settings
-Main branch protection test
+-Project Build Settings
